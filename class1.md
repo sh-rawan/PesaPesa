@@ -38,3 +38,10 @@ Net profit preceeding 12 months > 200 AND
 Return on capital employeed > 20% AND
 Debt to equity < 0.25
 ```
+
+### types of people in the market
+
+1. Promotors who own the majority of chunk and hold it for the long time.
+2. Institutions like FII `Mutual funds houses of foreign` and DII `Mutual funds houses of india`
+3. The public rich people `HNIs` (someone holding more than 1% in the public) and the normal public
+    - they never use stop loss
