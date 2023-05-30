@@ -9,3 +9,8 @@
 3. tata small cap funds
 4. motilal iswal midcap fund--
 5. quant flexi cap
+
+### High risk
+
+1. Axis small cap funds
+2. axis quant funds
